@@ -14,6 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-print("«Я прохожу курс по Python»", end='')
+print("«Я прохожу курс по Python» ", end='')
 print("«Я учу Python по курсу: ‘Программирование на Python с Нуля до Гуру’»")
 print("«Я прохожу курс по Python»\n«Я учу Python по курсу: ‘Программирование на Python с Нуля до Гуру’»")
